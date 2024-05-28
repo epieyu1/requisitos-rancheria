@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+.link{
+   text-decoration: none;
+    font-size: 18PX;
+    font-weight: bold;
+    color: rgb(25, 11, 218);
+}
+.link:hover{
+    background-color: rgb(250, 250, 250);
+    border-radius: 20PX;
+    border: 1PX solid rgb(3, 3, 3);
+    transition:initial;
+}
